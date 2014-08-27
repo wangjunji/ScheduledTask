@@ -1,0 +1,11 @@
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\ScheduledTask.exe
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\ScheduledTask.pdb
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.dll
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\Quartz.dll
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.pdb
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.xml
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\Quartz.pdb
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\bin\Debug\Quartz.xml
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\obj\Debug\ScheduledTask.csprojResolveAssemblyReference.cache
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\obj\Debug\ScheduledTask.exe
+c:\users\think\documents\visual studio 2012\Projects\ScheduledTask\ScheduledTask\obj\Debug\ScheduledTask.pdb
